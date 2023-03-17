@@ -1,0 +1,13 @@
+# Automatically normalize line endings.
+* text=auto
+
+# Merge driver for project and solution files
+*.cs     diff=csharp
+*.sln    merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+*.dbproj merge=union
+
+# Behaviors
+*.webp  binary
