@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
-using Example.App.Data;
+using Example.WebComponents.Data;
 
 namespace Example.App;
 
